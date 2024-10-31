@@ -1,4 +1,4 @@
-ThisProject cover all the task requirement as below:
+ThisProject (Selenium-Java) cover all the task requirement as below:
 1. All the test data exist in the constans test data inteface
 2. the pages divided into to pages (login, admin)
 3. each page contain all the required methods
