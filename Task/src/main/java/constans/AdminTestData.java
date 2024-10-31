@@ -2,9 +2,9 @@ package constans;
 
 public interface AdminTestData {
 
-    String validEmployeeName ="Esraa Mohamed";
-    String validUserName="Admin2222";
-    String validPassword="admin2222";
+    String validEmployeeName ="John1 Smith2 Davis3";
+    String validUserName="Esraa123";
+    String validPassword="P@ssw0rd123";
 
 
 
